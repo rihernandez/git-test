@@ -5,6 +5,4 @@ FYI : Before to commit to this project, please make your own fork from this proj
 
 completed by tyler
   
-  
-
-completado por whilmis
+completed by whilmis
