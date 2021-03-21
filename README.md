@@ -1,3 +1,4 @@
+
 # git-test
 This is the first task to perform as part of the first spring for USCD-movil-dev's project
 
@@ -14,3 +15,17 @@ Completed by Adrian \o/
 Completed by Michael U.
 
 Completado por Jeffrei
+
+Completed by Keven😎
+
+Completed by Victor. 
+
+Completed by Luis.
+
+Completed by Laura 
+
+Completed by Williandry 
+
+Completed by Alejandro. 
+
+
